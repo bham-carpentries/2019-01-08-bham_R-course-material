@@ -30,4 +30,3 @@ usability.
 > Files are organised in directories (folders).
 > Know how to access files not in the working directory by specifying the path.
 {: .prereq}
-
