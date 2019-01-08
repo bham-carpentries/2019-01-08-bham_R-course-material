@@ -2,6 +2,7 @@
 layout: lesson
 root: .
 ---
+This is the version taught at the [Software carpentries](https://bham-carpentries.github.io/2019-01-07-bham) workshop beginning on Monday 07 January 2019.
 
 Introduction to R for non-programmers using gapminder data.
 
